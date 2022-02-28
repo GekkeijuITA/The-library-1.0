@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblioteca>
+  <serie titolo="Beastars" casaEditrice="Planet Manga">
+    <volume dataAcquisto="2022-01-12" copertina="beastars1.jpg" prezzo="7.50" numero="1"/>
+    <volume dataAcquisto="2022-01-12" copertina="beastars2.jpg" prezzo="6.50" numero="2"/>
+    <volume dataAcquisto="2022-01-12" copertina="beastars3.jpg" prezzo="7.50" numero="3"/>
+    <volume dataAcquisto="2022-01-12" copertina="beastars4.jpg" prezzo="7.50" numero="4"/>
+    <volume dataAcquisto="2022-01-12" copertina="beastars5.jpg" prezzo="7.50" numero="5"/>
+    <volume dataAcquisto="2022-01-12" copertina="beastars6.jpg" prezzo="7.50" numero="6"/>
+    <volume dataAcquisto="2022-01-12" copertina="beastars7.jpg" prezzo="7.50" numero="7"/>
+    <volume dataAcquisto="2022-01-12" copertina="beastars8.jpg" prezzo="7.50" numero="8"/>
+    <volume dataAcquisto="2022-01-12" copertina="beastars9.jpg" prezzo="7.50" numero="9"/>
+    <volume dataAcquisto="2022-01-12" copertina="beastars10.jpg" prezzo="7.50" numero="10"/>
+    <volume dataAcquisto="2022-01-12" copertina="beastars11.jpg" prezzo="7.50" numero="11"/>
+    <volume dataAcquisto="2022-01-12" copertina="beastars12.jpg" prezzo="7.00" numero="12"/>
+    <volume dataAcquisto="2022-01-12" copertina="beastars13.jpg" prezzo="7.00" numero="13"/>
+    <volume dataAcquisto="2022-01-12" copertina="beastars14.jpg" prezzo="7.00" numero="14"/>
+    <volume dataAcquisto="2022-01-12" copertina="beastars15.jpg" prezzo="7.00" numero="15"/>
+    <volume dataAcquisto="2022-01-12" copertina="beastars16.jpg" prezzo="7.00" numero="16"/>
+    <volume dataAcquisto="2022-01-12" copertina="beastars17.jpg" prezzo="7.00" numero="17"/>
+    <volume dataAcquisto="2022-01-12" copertina="beastars18.jpg" prezzo="7.00" numero="18"/>
+    <volume dataAcquisto="2022-01-12" copertina="beastars19.jpg" prezzo="7.00" numero="19"/>
+    <volume dataAcquisto="2022-01-12" copertina="beastars20.jpg" prezzo="7.00" numero="20"/>
+    <volume dataAcquisto="2022-01-12" copertina="beastars21.jpg" prezzo="7.00" numero="21"/>
+    <volume dataAcquisto="2022-01-12" copertina="beastars22.jpg" prezzo="7.00" numero="22"/>
+  </serie>
+  <serie titolo="Jujutsu kaisen" casaEditrice="Planet Manga">
+    <volume dataAcquisto="2022-01-14" copertina="jujutsukaisen0.jpg" prezzo="4.90" numero="0"/>
+    <volume dataAcquisto="2022-01-12" copertina="jujutsukaisen1.jpg" prezzo="4.90" numero="1"/>
+    <volume dataAcquisto="2022-01-12" copertina="jujutsukaisen2.jpg" prezzo="4.90" numero="2"/>
+    <volume dataAcquisto="2022-01-14" copertina="jujutsukaisen3.jpg" prezzo="4.90" numero="3"/>
+    <volume dataAcquisto="2022-01-14" copertina="jujutsukaisen4.jpg" prezzo="4.90" numero="4"/>
+    <volume dataAcquisto="2022-01-14" copertina="jujutsukaisen5.jpg" prezzo="4.90" numero="5"/>
+    <volume dataAcquisto="2022-01-14" copertina="jujutsukaisen6.jpg" prezzo="4.90" numero="6"/>
+    <volume dataAcquisto="2022-01-14" copertina="jujutsukaisen7.jpg" prezzo="4.90" numero="7"/>
+    <volume dataAcquisto="2022-01-14" copertina="jujutsukaisen8.jpg" prezzo="4.90" numero="8"/>
+    <volume dataAcquisto="2022-01-14" copertina="jujutsukaisen9.jpg" prezzo="4.90" numero="9"/>
+    <volume dataAcquisto="2022-01-14" copertina="jujutsukaisen10.jpg" prezzo="4.90" numero="10"/>
+    <volume dataAcquisto="2022-01-14" copertina="jujutsukaisen11.jpg" prezzo="4.90" numero="11"/>
+  </serie>
+  <serie titolo="Konosuba" casaEditrice="Planet Manga">
+    <volume dataAcquisto="2022-01-14" copertina="konosuba1.jpg" prezzo="4.90" numero="1"/>
+    <volume dataAcquisto="2022-01-14" copertina="konosuba2.jpg" prezzo="4.90" numero="2"/>
+    <volume dataAcquisto="2022-01-14" copertina="konosuba3.jpg" prezzo="4.90" numero="3"/>
+    <volume dataAcquisto="2022-01-14" copertina="konosuba4.jpg" prezzo="4.90" numero="4"/>
+  </serie>
+  <serie titolo="Platinum end" casaEditrice="Planet Manga">
+    <volume dataAcquisto="2022-01-14" copertina="platinumend1.jpg" prezzo="1.00" numero="1"/>
+  </serie>
+  <serie titolo="Blue lock" casaEditrice="Planet Manga">
+    <volume dataAcquisto="2022-01-14" copertina="bluelock1.jpg" prezzo="3.99" numero="1"/>
+  </serie>
+  <serie titolo="Blue flag" casaEditrice="Planet Manga">
+    <volume dataAcquisto="2022-01-14" copertina="blueflag1.jpg" prezzo="4.90" numero="1"/>
+    <volume dataAcquisto="2022-01-14" copertina="blueflag2.jpg" prezzo="4.90" numero="2"/>
+    <volume dataAcquisto="2022-01-14" copertina="blueflag3.jpg" prezzo="4.90" numero="3"/>
+    <volume dataAcquisto="2022-01-14" copertina="blueflag4.jpg" prezzo="4.90" numero="4"/>
+    <volume dataAcquisto="2022-01-14" copertina="blueflag5.jpg" prezzo="4.90" numero="5"/>
+    <volume dataAcquisto="2022-01-14" copertina="blueflag6.jpg" prezzo="4.90" numero="6"/>
+    <volume dataAcquisto="2022-01-14" copertina="blueflag7.jpg" prezzo="4.90" numero="7"/>
+    <volume dataAcquisto="2022-01-14" copertina="blueflag8.jpg" prezzo="4.90" numero="8"/>
+  </serie>
+  <serie titolo="Chainsaw man" casaEditrice="Planet Manga">
+    <volume dataAcquisto="2022-01-14" copertina="chainsawman1.jpg" prezzo="4.90" numero="1"/>
+    <volume dataAcquisto="2022-01-14" copertina="chainsawman2.jpg" prezzo="4.90" numero="2"/>
+    <volume dataAcquisto="2022-01-14" copertina="chainsawman3.jpg" prezzo="4.90" numero="3"/>
+  </serie>
+  <serie titolo="Asadora!" casaEditrice="Planet Manga">
+    <volume dataAcquisto="2022-01-14" copertina="asadora!1.jpg" prezzo="7.50" numero="1"/>
+    <volume dataAcquisto="2022-01-14" copertina="asadora!2.jpg" prezzo="7.50" numero="2"/>
+  </serie>
+  <serie titolo="Tenken-reincarnato in una spada" casaEditrice="Planet Manga">
+    <volume dataAcquisto="2022-01-14" copertina="tenken-reincarnatoinunaspada1.jpg" prezzo="6.50" numero="1"/>
+  </serie>
+  <serie titolo="We never learn" casaEditrice="Planet Manga">
+    <volume dataAcquisto="2022-01-14" copertina="weneverlearn1.jpg" prezzo="4.90" numero="1"/>
+    <volume dataAcquisto="2022-01-14" copertina="weneverlearn2.jpg" prezzo="4.90" numero="2"/>
+    <volume dataAcquisto="2022-01-14" copertina="weneverlearn3.jpg" prezzo="4.90" numero="3"/>
+    <volume dataAcquisto="2022-01-14" copertina="weneverlearn4.jpg" prezzo="4.90" numero="4"/>
+    <volume dataAcquisto="2022-01-14" copertina="weneverlearn5.jpg" prezzo="4.90" numero="5"/>
+    <volume dataAcquisto="2022-01-14" copertina="weneverlearn6.jpg" prezzo="4.90" numero="6"/>
+    <volume dataAcquisto="2022-01-14" copertina="weneverlearn7.jpg" prezzo="4.90" numero="7"/>
+    <volume dataAcquisto="2022-01-14" copertina="weneverlearn8.jpg" prezzo="4.90" numero="8"/>
+    <volume dataAcquisto="2022-01-14" copertina="weneverlearn9.jpg" prezzo="4.90" numero="9"/>
+    <volume dataAcquisto="2022-01-14" copertina="weneverlearn10.jpg" prezzo="4.90" numero="10"/>
+    <volume dataAcquisto="2022-01-14" copertina="weneverlearn11.jpg" prezzo="4.90" numero="11"/>
+    <volume dataAcquisto="2022-01-14" copertina="weneverlearn12.jpg" prezzo="4.90" numero="12"/>
+    <volume dataAcquisto="2022-01-14" copertina="weneverlearn13.jpg" prezzo="4.90" numero="13"/>
+    <volume dataAcquisto="2022-01-14" copertina="weneverlearn14.jpg" prezzo="4.90" numero="14"/>
+    <volume dataAcquisto="2022-01-14" copertina="weneverlearn15.jpg" prezzo="4.90" numero="15"/>
+    <volume dataAcquisto="2022-01-14" copertina="weneverlearn16.jpg" prezzo="4.90" numero="16"/>
+    <volume dataAcquisto="2022-01-14" copertina="weneverlearn17.jpg" prezzo="4.90" numero="17"/>
+    <volume dataAcquisto="2022-01-14" copertina="weneverlearn18.jpg" prezzo="4.90" numero="18"/>
+  </serie>
+  <serie titolo="Saga of tanya the evil" casaEditrice="Planet Manga">
+    <volume dataAcquisto="2022-01-14" copertina="sagaoftanyatheevil1.jpg" prezzo="6.50" numero="1"/>
+    <volume dataAcquisto="2022-01-14" copertina="sagaoftanyatheevil2.jpg" prezzo="6.50" numero="2"/>
+    <volume dataAcquisto="2022-01-14" copertina="sagaoftanyatheevil3.jpg" prezzo="6.50" numero="3"/>
+    <volume dataAcquisto="2022-01-14" copertina="sagaoftanyatheevil4.jpg" prezzo="6.50" numero="4"/>
+    <volume dataAcquisto="2022-01-14" copertina="sagaoftanyatheevil5.jpg" prezzo="6.50" numero="5"/>
+    <volume dataAcquisto="2022-01-14" copertina="sagaoftanyatheevil6.jpg" prezzo="6.50" numero="6"/>
+    <volume dataAcquisto="2022-01-14" copertina="sagaoftanyatheevil7.jpg" prezzo="6.50" numero="7"/>
+    <volume dataAcquisto="2022-01-14" copertina="sagaoftanyatheevil8.jpg" prezzo="6.50" numero="8"/>
+    <volume dataAcquisto="2022-01-14" copertina="sagaoftanyatheevil9.jpg" prezzo="6.50" numero="9"/>
+    <volume dataAcquisto="2022-01-14" copertina="sagaoftanyatheevil10.jpg" prezzo="6.50" numero="10"/>
+    <volume dataAcquisto="2022-01-14" copertina="sagaoftanyatheevil11.jpg" prezzo="6.50" numero="11"/>
+    <volume dataAcquisto="2022-01-14" copertina="sagaoftanyatheevil12.jpg" prezzo="6.50" numero="12"/>
+    <volume dataAcquisto="2022-01-14" copertina="sagaoftanyatheevil13.jpg" prezzo="6.50" numero="13"/>
+    <volume dataAcquisto="2022-01-14" copertina="sagaoftanyatheevil14.jpg" prezzo="6.50" numero="14"/>
+    <volume dataAcquisto="2022-01-14" copertina="sagaoftanyatheevil15.jpg" prezzo="6.50" numero="15"/>
+    <volume dataAcquisto="2022-01-14" copertina="sagaoftanyatheevil16.jpg" prezzo="6.50" numero="16"/>
+    <volume dataAcquisto="2022-01-14" copertina="sagaoftanyatheevil17.jpg" prezzo="6.50" numero="17"/>
+    <volume dataAcquisto="2022-01-14" copertina="sagaoftanyatheevil18.jpg" prezzo="6.50" numero="18"/>
+    <volume dataAcquisto="2022-01-14" copertina="sagaoftanyatheevil19.jpg" prezzo="6.50" numero="19"/>
+    <volume dataAcquisto="2022-01-14" copertina="sagaoftanyatheevil20.jpg" prezzo="6.50" numero="20"/>
+  </serie>
+  <serie titolo="Sword art online - aincrad box" casaEditrice="JPOP">
+    <volume dataAcquisto="2022-01-15" copertina="swordartonlineaincradbox0.jpg" prezzo="11.80" numero="0"/>
+  </serie>
+  <serie titolo="Sword art online - fairy dance box" casaEditrice="JPOP">
+    <volume dataAcquisto="2022-01-15" copertina="swordartonlinefairydancebox0.jpg" prezzo="20.70" numero="0"/>
+  </serie>
+  <serie titolo="Sword art online: progressive" casaEditrice="JPOP">
+    <volume dataAcquisto="2022-01-15" copertina="swordartonlineprogressive1.jpg" prezzo="23.60" numero="1"/>
+    <volume dataAcquisto="2022-01-15" copertina="swordartonlineprogressive2.jpg" prezzo="17.70" numero="2"/>
+  </serie>
+  <serie titolo="Sword art online - mother's rosario box" casaEditrice="JPOP">
+    <volume dataAcquisto="2022-01-15" copertina="swordartonline-mother'srosariobox0.jpg" prezzo="20.70" numero="0"/>
+  </serie>
+  <serie titolo="Sword art online - calibur" casaEditrice="JPOP">
+    <volume dataAcquisto="2022-01-15" copertina="swordartonline-calibur1.jpg" prezzo="6.90" numero="1"/>
+  </serie>
+</biblioteca>

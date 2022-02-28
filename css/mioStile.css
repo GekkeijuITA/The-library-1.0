@@ -1,0 +1,66 @@
+body
+{
+    background-color: rgb(12, 12, 12);
+}
+.center
+{
+    display: flex;
+    justify-content: center;
+}
+.menu input,select,img
+{
+    display: block;
+    margin: 0 auto;
+}
+.card img
+{
+    max-width: 245px;
+    max-height: 375px;
+}
+.card
+{
+    max-width:300px;
+}
+#scaffale img
+{
+    max-width: 545px;
+    max-height: 675px;
+    height: auto;
+    float:left; 
+}
+table 
+{
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 90%;
+    background-color: white;
+}
+td, th 
+{
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even) 
+{
+    background-color: #dddddd;
+}
+#descrizione
+{
+    color:  whitesmoke;
+}
+@media (max-width: 375px)
+{
+    .container
+    {
+        width:100%;
+    }
+}
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+    margin-right: 0;
+    margin-left: 0;
+}
+.col
+{
+    background-image: url("../img/scaffale.jpg");
+}
